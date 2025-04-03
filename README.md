@@ -129,23 +129,6 @@ console.log(data)
 
 
 
-
-## :question: Get Help
-
-There are few ways to get help:
-
-
-
- 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
- 2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-
-
-
-
-
 ## :memo: Documentation
 
 
@@ -171,7 +154,7 @@ For the format of the selector, please refer to the [Selectors section of the Ch
            value.
          - `attr` (String): If provided, the value will be taken based on
            the attribute name.
-         - `trim` (Boolean): If `false`, the value will *not* be trimmed
+         - `trimValue` (Boolean): If `false`, the value will *not* be trimmed
            (default: `true`).
          - `closest` (String): If provided, returns the first ancestor of
            the given element.
@@ -236,6 +219,24 @@ For the format of the selector, please refer to the [Selectors section of the Ch
 
 
 
+## :question: Get Help
+
+There are few ways to get help:
+
+
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
+
+
+
+
+
+
+
 
 
 
@@ -275,6 +276,13 @@ Thanks! :heart:
 
 
 
+
+
+
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - `scrape-it`
 
 
 
